@@ -7,3 +7,5 @@ I'm also a developer and analyst of electronic systems, focusing on microcontrol
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-ubisse&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=jay-ubisse)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=AuctionHub)](https://github.com/anuraghazra/github-readme-stats)
