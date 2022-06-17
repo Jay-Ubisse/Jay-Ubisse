@@ -12,3 +12,4 @@ I'm also a developer and analyst of digital electronic systems, focusing on micr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=AuctionHub)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=DigitalTech-Store)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=OritComercial)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=ujc-community)](https://github.com/anuraghazra/github-readme-stats)
