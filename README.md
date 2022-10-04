@@ -26,28 +26,9 @@ I'm also a developer and analyst of digital electronic systems, focusing on micr
   <a href="https://wa.me/+258845539095?text=Olá%20Belmiro,%20Gostaria%20de%20trabalhar%20contigo%20no%20desenvolvimento%20do%20meu%20website."  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/belmiro-cossa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
 
- ##- uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+ ##
+ ![Snake animation](https://github.com/mirobmc/mirobmc/blob/output/github-contribution-grid-snake.svg)
  
-</div>
-
 ![](https://komarev.com/ghpvc/?username=jay-ubisse)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=AuctionHub)](https://github.com/anuraghazra/github-readme-stats)
