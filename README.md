@@ -27,7 +27,7 @@ I'm also a developer and analyst of digital electronic systems, focusing on micr
 <a href="https://www.linkedin.com/in/belmiro-cossa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
 
  ##
-  ![Snake animation](https://github.com/mirobmc/mirobmc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jay-ubisse/jay-ubisse/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
