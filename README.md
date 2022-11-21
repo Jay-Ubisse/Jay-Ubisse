@@ -31,7 +31,7 @@ I'm also a developer and analyst of digital electronic systems, focusing on micr
  
 ![](https://komarev.com/ghpvc/?username=jay-ubisse)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=AuctionHub)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=Feedback-Widget-reactjs)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=OritComercial)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=portal-fct)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=binario-store)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-ubisse&repo=ujc-community)](https://github.com/anuraghazra/github-readme-stats)
