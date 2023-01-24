@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Jay Ubisse. It's a pleasure to have you here. 
 
 
-I'm a Web developer (Front-End & Back-End) and web designer, with solid knowledge of UI/UX.
+I'm a Web Developer, Mobile Developer and UI/UX Designer.
 
 Since I started my freelance journey over 2 years ago, I've done remote work for small businesses, consulted for startups, and collaborated with talented people to create digital products for commercial and consumer use. I'm quietly confident, naturally curious and always working to improve my skills.
 
