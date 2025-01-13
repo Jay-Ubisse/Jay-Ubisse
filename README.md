@@ -8,7 +8,9 @@ Since I started my freelance journey over 3 years ago, I've done remote work for
 Whether you are a company looking for a web presence or an employer looking to hire, you can contact me through my <a href="https://jay-ubisse.com/">website</a>.
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-ubisse&count_private=true&include_all_commits=false&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-ubisse&count_private=true&include_all_commits=false&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-ubisse&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
