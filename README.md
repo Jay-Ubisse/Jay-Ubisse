@@ -5,7 +5,7 @@ I'm a Web Developer, Mobile Developer and UI/UX Designer.
 
 I am passionate about creating exceptional digital experiences. With an approach focused on user-centered design and the development of robust and scalable solutions, I am always looking for ways to improve the interaction between people and technology.
 
-Since I started my journey over 4 years ago, I've done remote work for small businesses, consulted for startups, and collaborated with talented people to create digital products for commercial and consumer use. I'm quietly confident, naturally curious and always working to improve my skills.
+Since I started my journey over 4 years ago, I've done remote work for small, medium and large businesses, consulted for startups, and collaborated with talented people to create digital products for commercial and consumer use. I'm quietly confident, naturally curious and always working to improve my skills.
 
 ### 💻 Skills and Technologies
 - **Web Development:** HTML, CSS, JavaScript, TypeScript, ReactJs, NextJS, NodeJS, ExpressJS, Fastify
