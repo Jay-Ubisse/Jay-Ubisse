@@ -8,7 +8,7 @@ I am passionate about creating exceptional digital experiences. With an approach
 Since I started my journey over 3 years ago, I've done remote work for small businesses, consulted for startups, and collaborated with talented people to create digital products for commercial and consumer use. I'm quietly confident, naturally curious and always working to improve my skills.
 
 ### 💻 Skills and Technologies
-- **Web Development:** HTML, CSS, JavaScript, TypeScript, ReactJs, NextJS, NodeJS, ExpressJS
+- **Web Development:** HTML, CSS, JavaScript, TypeScript, ReactJs, NextJS, NodeJS, ExpressJS, Fastify
 - **Web Development:** React Native
 - **UI/UX Design:** Figma, Prototyping, Responsive Design, Accessibility
 
