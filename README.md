@@ -9,7 +9,7 @@ Since I started my journey over 4 years ago, I've done remote work for small, me
 
 ### 💻 Skills and Technologies
 - **Web Development:** HTML, CSS, JavaScript, TypeScript, ReactJs, NextJS, NodeJS, ExpressJS, Fastify
-- **Web Development:** React Native
+- **Mobile Development:** React Native
 - **UI/UX Design:** Figma, Prototyping, Responsive Design, Accessibility
 
 ### 🤝 Let´s Talk
