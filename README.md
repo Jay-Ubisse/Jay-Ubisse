@@ -1,4 +1,4 @@
-🚀 Software Engineer building scalable platforms for education and business.
+##🚀 Software Engineer building scalable platforms for education and business.
 
 I design and develop backend systems, web apps, and mobile solutions with a strong focus on architecture, performance, and real-world impact.
 
