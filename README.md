@@ -1,25 +1,22 @@
-## Hello 👋, I'm Jay Ubisse. It's a pleasure to have you here. 
+🚀 Software Engineer building scalable platforms for education and business.
 
+I design and develop backend systems, web apps, and mobile solutions with a strong focus on architecture, performance, and real-world impact.
 
-I'm a Web Developer, Mobile Developer and UI/UX Designer.
+💡 What I build:
+- eLearning platforms used across Mozambique, Portugal, Brazil, and Syria
+- Academic management systems (pedagogical, financial, HR)
+- Custom business systems (ecommerce, admin dashboards, internal tools)
 
-I am passionate about creating exceptional digital experiences. With an approach focused on user-centered design and the development of robust and scalable solutions, I am always looking for ways to improve the interaction between people and technology.
+👨‍🏫 I also train developers from beginner to advanced level
+- 200+ students trained across Mozambique and Portugal
+- Students working in companies and launching startups
 
-Since I started my journey over 4 years ago, I've done remote work for small, medium and large businesses, consulted for startups, and collaborated with talented people to create digital products for commercial and consumer use. I'm quietly confident, naturally curious and always working to improve my skills.
+🛠 Tech stack:
+TypeScript, React.Js, Next.js, Fastify, Express, Prisma ORM, Drizzle ORM, PostgreSQL, Tailwind, Supabase
 
-### 💻 Skills and Technologies
-- **Web Development:** HTML, CSS, JavaScript, TypeScript, ReactJs, NextJS, NodeJS, ExpressJS, Fastify
-- **Mobile Development:** React Native
-- **UI/UX Design:** Figma, Prototyping, Responsive Design, Accessibility
+🎯 Focus:
+- Scalable architectures
+- Clean code & system design
+- Product-driven development
 
-### 🤝 Let´s Talk
-
-If you have an interesting project or collaboration, please contact me. Let's build something amazing!!
-
-<!--
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-ubisse&count_private=true&include_all_commits=false&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-ubisse&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+Open to collaborations, consulting, and building impactful products.
