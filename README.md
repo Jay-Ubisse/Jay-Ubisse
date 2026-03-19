@@ -5,9 +5,8 @@ I design and develop backend systems, web apps, and mobile solutions with
 a strong focus on architecture, performance, and real-world impact.
 
 💡 WHAT I BUILD:
-- eLearning platforms used across Mozambique, Portugal, Brazil, and Syria
-- Academic management systems (pedagogical, financial, HR)
-- Custom business systems (ecommerce, admin dashboards, internal tools)
+- Management systems across multiple domains (education, finance, HR, and operations)
+- Custom business systems (administrative, and financial platforms)
 
 👨‍🏫 I ALSO TRAIN DEVELOPERS FROM BEGINNER TO ADVANCED LEVEL
 - 200+ students trained across Mozambique and Portugal
