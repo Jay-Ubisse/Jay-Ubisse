@@ -1,4 +1,4 @@
-# `🚀 Software Engineer building scalable platforms for education and business.`
+# `Software Engineer building scalable platforms for education and business.`
 
 
 I design and develop backend systems, web apps, and mobile solutions with 
@@ -21,5 +21,3 @@ Drizzle ORM, PostgreSQL, Tailwind, Supabase
 - Scalable architectures
 - Clean code & system design
 - Product-driven development
-
-Open to collaborations, consulting, and building impactful products.
