@@ -9,11 +9,11 @@ a strong focus on architecture, performance, and real-world impact.
 - Custom business systems (administrative, and financial platforms)
 
 👨‍🏫 I ALSO TRAIN DEVELOPERS FROM BEGINNER TO ADVANCED LEVEL
-- 200+ students trained across Mozambique and Portugal
+- 400+ developers trained across two countries
 - Students working in companies and launching startups
 
 🛠 TECH STACK:
-TypeScript, React.Js, Next.js, Fastify, Express, Prisma ORM, 
+JavaScript, TypeScript, React.Js, Next.js, React Native, Fastify, Express, Prisma ORM, 
 Drizzle ORM, PostgreSQL, Tailwind, Supabase
 
 🎯 FOCUS:
